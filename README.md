@@ -11,4 +11,5 @@
 98581 - Matheus Roberto Aparecido de Medeiros Carvalho Pereira de Souza
 
 #**Explicação da arquitetura**
+
 *Monolítica, pois utiliza-se uma abordagem mais simples, além de que existe uma facilidade na manutenção, pois o código esta tudo em um único projeto e também existe uma certa rapidez no desenvolvimento*
