@@ -114,7 +114,7 @@ Atualiza o cadastro com o `id` informado.
     "senha": "234"
 }
 ```
-```
+
 ### CONSULTORIA
 
 `GET` /consultoria
