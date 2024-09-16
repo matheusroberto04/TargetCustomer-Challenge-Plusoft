@@ -24,6 +24,7 @@
 
 `GET` /cliente
 Listagem de todos os clientes adicionados
+
 `CPF`
 
 `Nome`
